@@ -1,4 +1,6 @@
 # odin-recipes
-A good food recipe to try!
+Delicious food recipes to try!
 
-This is the first html project for The Odin project.
+This is my first html project for The Odin Project.
+Working on this project, I learned about web development coding practices, 
+basic HTML concepts, git and github.
