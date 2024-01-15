@@ -1,1 +1,29 @@
 /*Styles.css*/
+html{
+    background-color: burlywood;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+}
+
+a{
+    display: block;
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+}
+html#index{
+    background-image: url("https://wallpapers.com/images/hd/wood-table-background-jofbzs89xz8gg3hq.jpg");
+    background-size: cover;
+   /* background-attachment: fixed; */
+}
+.dishFont{
+    color:bisque;
+}
+.titleFont{
+    color: black;
+}
