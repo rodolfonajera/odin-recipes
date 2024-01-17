@@ -2,19 +2,20 @@
 html{
     background-color: burlywood;
 }
+
 h1{
     text-align: center;
     font-weight: bold;
+    margin: 0px;
 }
-
-a{
-    display: block;
+h3.dishFont{
     text-align: center;
+    margin: 0px 0px 20px;
 }
 img{
     display: block;
-    margin-left: auto;
-    margin-right:auto;
+    margin: 0px auto;
+    padding: 0px;
 }
 html#index{
     background-image: url("");
